@@ -161,15 +161,5 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1755965344.615998,
-    "completed_at": 1755965345.165012,
-    "comments": [
-      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
